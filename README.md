@@ -22,21 +22,15 @@ This is a C++ project for a Banking Management System. It allows users to perfor
 # Getting Started
 To run the project, follow these steps:
 
-Clone the repository or download the source code files.
-
-Compile the source code using a C++ compiler.
-
-Run the compiled executable file.
-
-Follow the on-screen prompts to perform various banking operations.
+- Clone the repository or download the source code files.
+- Compile the source code using a C++ compiler.
+- Run the compiled executable file.
+- Follow the on-screen prompts to perform various banking operations.
 
 # Future Enhancements
 The following are potential future enhancements for the banking management system:
 
-Addition of interest calculation for savings accounts
-
-Implementation of transaction history for each account
-
-Integration with an online banking platform for remote access and transactions
-
-Implementation of multi-factor authentication for enhanced security
+- Addition of interest calculation for savings accounts
+- Implementation of transaction history for each account
+- Integration with an online banking platform for remote access and transactions
+- Implementation of multi-factor authentication for enhanced security
